@@ -1,4 +1,4 @@
-# Test-Task-MiIEM-project
+# Test-Task-MIEM-project
 Test task to the data collection project
 # The Metropolitan Museum of Art 
 ## Задача
